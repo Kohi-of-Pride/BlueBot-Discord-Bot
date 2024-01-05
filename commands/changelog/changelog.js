@@ -18,7 +18,7 @@ module.exports = {
     const channelOption = interaction.options.getString('channel');
     const keywords = interaction.options.getString('keyword').split(' ');
 
-    const allowedRole = '1050806922275725403';
+    const allowedRole = '1158914668400746526';
     const allowedChannelId = '962377198315130941';
 
     const allowedChannel = interaction.channel
