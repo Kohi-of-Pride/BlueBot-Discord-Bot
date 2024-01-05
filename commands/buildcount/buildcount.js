@@ -9,7 +9,7 @@ module.exports = {
   async execute(interaction) {
     await interaction.deferReply({ ephemeral: false });
 
-    const allowedRole = '1050806922275725403'; 
+    const allowedRole = '1158914668400746526'; 
     const allowedChannelId = '962377198315130941';
 
     const allowedChannel = interaction.channel
