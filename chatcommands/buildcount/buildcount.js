@@ -6,7 +6,7 @@ module.exports = {
   aliases: ['bc'],
   async execute(message) {
 
-    const allowedRole = '1050806922275725403'; 
+    const allowedRole = '1158914668400746526'; 
     const allowedChannelId = '962377198315130941';
 
     const allowedChannel = message.channel
